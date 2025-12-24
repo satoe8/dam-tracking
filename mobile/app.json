@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Dam Tracker",
+    "slug": "dam-tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.jpg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#F59E0B"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.damtracker.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.jpg",
+        "backgroundColor": "#F59E0B"
+      },
+      "package": "com.damtracker.app"
+    },
+    "web": {
+      "favicon": "./assets/favicon.jpg"
+    },
+    "plugins": ["expo-router"],
+    "scheme": "damtracker"
+  }
+}
