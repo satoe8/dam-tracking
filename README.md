@@ -185,14 +185,3 @@ Potential future features:
 - Push notifications
 - Mobile app
 
-## Contributing
-
-This is a v0-generated project. Feel free to fork and customize for your needs!
-
-## License
-
-MIT
-
-## Support
-
-For issues or questions, open a support ticket at vercel.com/help
